@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Frigate (For old x86_64 CPUs)
+# Home Assistant Add-on: Frigate NVR (For old x86_64 CPUs)
 
 Please reference the [release notes](https://github.com/blakeblackshear/frigate/releases) for breaking changes.
 
@@ -10,4 +10,5 @@ You must create a config file as `frigate.yml` in the root of your Home Assistan
 
 [Documentation](https://docs.frigate.video)
 
+[Frigate]: https://github.com/blakeblackshear/frigate
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
